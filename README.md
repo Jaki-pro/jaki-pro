@@ -31,12 +31,6 @@ Check out my profiles:
 
 ---
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jaki-pro&show_icons=true&theme=radical)
-
----
-
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/jakariahossain23/)
